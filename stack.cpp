@@ -11,6 +11,7 @@ private:
 
 public:
   // конструктор
+
   Stack(int length)
   {
     size = length;
